@@ -1,5 +1,4 @@
-//changes from 2nd branch
-//changes done by 1st barnch
+//This is the change made ny 2nd branch
 const num1 = 5;
 const num2 = 3;
 
