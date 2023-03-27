@@ -1,3 +1,3 @@
-// changes from 2nd branch
-// the hello world program -changes done by 1st branch
+// the hello world program
+//this is the change for 1st branch 
 console.log('Hello World');
